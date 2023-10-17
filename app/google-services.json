@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "72405700856",
+    "firebase_url": "https://mobileperpasif-default-rtdb.firebaseio.com",
+    "project_id": "mobileperpasif",
+    "storage_bucket": "mobileperpasif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72405700856:android:b9421c35f2ba41c26aab0d",
+        "android_client_info": {
+          "package_name": "id.ac.umn.projekpervasive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCLr49un1-k6aSq8dWm1I7UMXGO9d7uH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
